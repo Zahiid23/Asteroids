@@ -13,7 +13,7 @@ $ git clone https://github.com/Zahiid23/Asteroids.git
 
 ```
 
-## Dependencies
+## Languages
 
 * JavaScript, basic HTML and basic CSS 
 
